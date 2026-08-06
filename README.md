@@ -3,16 +3,13 @@
 
 <div align="center">
 
-  <!-- Estatísticas -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateus-Mendonca&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-mateus-mendonca&show_icons=true&theme=merko"/>
 
-  <!-- Linguagens -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Mendonca&layout=compact&theme=merko"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mateus-mendonca&layout=compact&theme=merko"/>
 
-  <!-- Metrics (Dashboard completo) 
-  <img height="180em" src="https://github.com/Mateus-Mendonca/Mateus-Mendonca/blob/main/github-metrics.svg"/>
+<img src="https://streak-stats.demolab.com?user=dev-mateus-mendonca&theme=merko"/>
 
-</div> -->
+</div>
 
 
 
